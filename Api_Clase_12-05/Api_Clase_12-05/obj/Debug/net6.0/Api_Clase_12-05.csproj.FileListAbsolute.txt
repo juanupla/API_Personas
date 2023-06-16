@@ -1,0 +1,321 @@
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/appsettings.json
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.exe
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.deps.json
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.runtimeconfig.json
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.pdb
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/EntityFramework.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Humanizer.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Npgsql.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.csproj.AssemblyReference.cache
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.AssemblyInfoInputs.cache
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.AssemblyInfo.cs
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.csproj.CoreCompileInputs.cache
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/scopedcss/bundle/Api_Clase_12-05.styles.css
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.csproj.CopyComplete
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/refint/Api_Clase_12-05.dll
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.pdb
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.genruntimeconfig.cache
+C:/Users/nicol/Desktop/Clase 12-05-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/ref/Api_Clase_12-05.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/appsettings.Development.json
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/appsettings.json
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.deps.json
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.runtimeconfig.json
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Api_Clase_12-05.pdb
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/EntityFramework.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Humanizer.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Npgsql.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.CodeDom.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.csproj.AssemblyReference.cache
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.AssemblyInfoInputs.cache
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.AssemblyInfo.cs
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.csproj.CoreCompileInputs.cache
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cs
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cache
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets/msbuild.Api_Clase_12-05.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets/msbuild.build.Api_Clase_12-05.props
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Api_Clase_12-05.props
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Api_Clase_12-05.props
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/scopedcss/bundle/Api_Clase_12-05.styles.css
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.csproj.CopyComplete
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/refint/Api_Clase_12-05.dll
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.pdb
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/Api_Clase_12-05.genruntimeconfig.cache
+/Users/nicolashorenstein/Documents/tup 02-06-23/Api_Clase_12-05/Api_Clase_12-05/obj/Debug/net6.0/ref/Api_Clase_12-05.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.json
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.exe
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.deps.json
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.runtimeconfig.json
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.pdb
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.AssemblyReference.cache
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfoInputs.cache
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfo.cs
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CoreCompileInputs.cache
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\scopedcss\bundle\Api_Clase_12-05.styles.css
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CopyComplete
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\refint\Api_Clase_12-05.dll
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.pdb
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.genruntimeconfig.cache
+C:\Users\Agos\Downloads\API2\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\ref\Api_Clase_12-05.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.Development.json
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.json
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.exe
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.deps.json
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.runtimeconfig.json
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.pdb
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Humanizer.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.CodeDom.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.AssemblyReference.cache
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfoInputs.cache
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfo.cs
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CoreCompileInputs.cache
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cs
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cache
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.Api_Clase_12-05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_Clase_12-05.props
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_Clase_12-05.props
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_Clase_12-05.props
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.pack.json
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.build.json
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.development.json
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\scopedcss\bundle\Api_Clase_12-05.styles.css
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CopyComplete
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\refint\Api_Clase_12-05.dll
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.pdb
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.genruntimeconfig.cache
+C:\EscritorioCremona\Progra III - Repositories\APIAgos\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\ref\Api_Clase_12-05.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.Development.json
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\appsettings.json
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.exe
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.deps.json
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.runtimeconfig.json
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Api_Clase_12-05.pdb
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\EntityFramework.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Humanizer.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.CodeDom.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.AssemblyReference.cache
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfoInputs.cache
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.AssemblyInfo.cs
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CoreCompileInputs.cache
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cs
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.MvcApplicationPartsAssemblyInfo.cache
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.Api_Clase_12-05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_Clase_12-05.props
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_Clase_12-05.props
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_Clase_12-05.props
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.pack.json
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.build.json
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\staticwebassets.development.json
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\scopedcss\bundle\Api_Clase_12-05.styles.css
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.csproj.CopyComplete
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\refint\Api_Clase_12-05.dll
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.pdb
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\Api_Clase_12-05.genruntimeconfig.cache
+C:\EscritorioCremona\Progra III - Repositories\API_Personas\Api_Clase_12-05\Api_Clase_12-05\obj\Debug\net6.0\ref\Api_Clase_12-05.dll
